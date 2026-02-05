@@ -1,0 +1,7 @@
+com\example\systemparam\service\SystemParamServiceContractTest.class
+com\example\systemparam\service\SystemParamsTest$CountingRepo.class
+com\example\systemparam\service\SystemParamServiceContractTest$InMemoryRepo.class
+com\example\systemparam\converter\ParamTypeConverterTest.class
+com\example\systemparam\service\SystemParamsTest$InMemoryRepo.class
+com\example\systemparam\service\SystemParamsTest.class
+com\example\systemparam\converter\ParamTypeConverterTest$Color.class
