@@ -25,6 +25,7 @@
         <maven.surefire.plugin.version>3.2.5</maven.surefire.plugin.version>
         <maven.jar.plugin.version>3.4.2</maven.jar.plugin.version>
         <maven.source.plugin.version>3.3.1</maven.source.plugin.version>
+        <sonar.organization>ittizak</sonar.organization>
     </properties>
 
     <dependencies>
